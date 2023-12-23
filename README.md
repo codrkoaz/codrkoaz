@@ -8,7 +8,4 @@ Outside of work, I'm interested in 3D Modeling, Motion Gaphics and creating clot
 
 #### Let Connect!
 
-<!-- [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin) -->
-
-[<img alt='LinkedIn' src='https://img.shields.io/badge/%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
-'/>](https://linkedin.com/in/jozasmith)
+[<img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-%231E96EB.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/jozasmith)
