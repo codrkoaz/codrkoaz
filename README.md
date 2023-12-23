@@ -7,5 +7,6 @@ I'm primarily interested in web development and currently work as a designer at 
 Outside of work, I'm interested in 3D Modeling, Motion Gaphics and creating clothes. I also play a lot of video games and starting to get comfortable on camera for my Youtube channel.
 
 #### Let Connect!
+<img src="https://github.com/codrkoaz/codrkoaz/assets/51058620/3e6ac763-b305-4a78-a652-6b04942145ac" width=40>
 
 [<img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-%231E96EB.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/jozasmith)
