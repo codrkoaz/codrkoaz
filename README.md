@@ -1,4 +1,4 @@
-Hi there! ![eyes](https://github.com/codrkoaz/codrkoaz/assets/51058620/ed8f18e4-d101-4f80-9974-945efb77aade {width=40px height=40px})
+Hi there! ![eyes](https://github.com/codrkoaz/codrkoaz/assets/51058620/ed8f18e4-d101-4f80-9974-945efb77aade {width=40px})
 
 I'm Joza, a Digital Craftsman from Grand Rapids, Michigan.
 
