@@ -2,7 +2,7 @@
 
 I'm <a href="https://link-in-bio-11k3.vercel.app/"><ins>**Joza**</ins></a>, a Digital Craftsman from Grand Rapids, Michigan.
 
-I'm primarily interested in web development and currently work as a designer and creator at @adreamersfuture.
+I'm primarily interested in web development.
 
 Outside of work, I'm interested in 3D Modeling, Motion Gaphics and creating clothes. I also play a lot of video games and starting to get comfortable on camera for my Youtube channel.
 
