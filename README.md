@@ -4,7 +4,7 @@ I'm <a href="https://link-in-bio-11k3.vercel.app/"><ins>**Joza**</ins></a>, a Di
 
 I'm primarily interested in web development.
 
-Outside of work, I'm interested in 3D Modeling, Motion Gaphics and creating clothes. I also play a lot of video games and starting to get comfortable on camera for my Youtube channel.
+When I'm not busy, I'm interested in 3D Modeling, Motion Gaphics and creating clothes. I also play a lot of video games and starting to get comfortable on camera for my Youtube channel.
 
 #### Let Connect!
 <img src="https://github.com/codrkoaz/codrkoaz/assets/51058620/3e6ac763-b305-4a78-a652-6b04942145ac" width=40>
